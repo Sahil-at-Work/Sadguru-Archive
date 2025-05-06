@@ -1,18 +1,20 @@
 Some Basic Concepts of Chemistry
 
 Realm of Atoms and Moles
-![1](https://github.com/user-attachments/assets/a8d0d9af-5040-44e6-b29b-902f00b450cb)
-![2](https://github.com/user-attachments/assets/0da6f53b-c8fb-4ada-82d3-31094dae503f)
-![3](https://github.com/user-attachments/assets/cc4666ec-e5ca-49dc-b4c5-5fcd73fa8acd)
-![4](https://github.com/user-attachments/assets/efa4a748-219d-4538-9ccf-5cd456680866)
-![5](https://github.com/user-attachments/assets/2d9e3113-1e89-4ce5-8c58-ead511bd942a)
-![6](https://github.com/user-attachments/assets/af5258ca-4a74-44dd-a403-3e9d002984ec)
-![7](https://github.com/user-attachments/assets/46e85631-5b2d-43cc-ba9f-f3c8f5842c50)
-![8](https://github.com/user-attachments/assets/07aae590-ca6b-4ea5-88dd-56c882aa5b87)
-![9](https://github.com/user-attachments/assets/ad5f2cee-867d-4bca-a018-41f39fd60c23)
-![10](https://github.com/user-attachments/assets/09ca277e-1e11-43d6-abcd-baf797b34d7e)
+![1](https://github.com/user-attachments/assets/3bca3f15-44cb-4388-9ac3-7300e422464a)
+![2](https://github.com/user-attachments/assets/9efae9e7-2034-4676-95bf-e8e349e778be)
+![3](https://github.com/user-attachments/assets/3f6ebf52-777f-4d59-833b-ab9e9b62d84d)
+![4](https://github.com/user-attachments/assets/3c092b86-e340-4990-a5eb-6bd150a1b7f7)
+![5](https://github.com/user-attachments/assets/79119cbd-825e-412a-a131-965224e4a796)
+![6](https://github.com/user-attachments/assets/0dd195fe-02e1-44b9-be80-8773b8c188e7)
+![7](https://github.com/user-attachments/assets/91998a5b-3615-4024-8c4a-e79f19da9282)
+![8](https://github.com/user-attachments/assets/aee33b15-9a06-45c8-88f7-252e5287b3aa)
+![9](https://github.com/user-attachments/assets/f9cf74ee-949e-4abe-90ac-0ebec9f50615)
+![10](https://github.com/user-attachments/assets/279add56-7688-4e30-a020-cdec6698e259)
+
 
 SI Units
+![11](https://github.com/user-attachments/assets/9802e052-2130-4961-8e56-ecf53c4cb61c)
 ![12](https://github.com/user-attachments/assets/d45a89b0-3e88-4630-bf6a-19d729e57d40)
 ![13](https://github.com/user-attachments/assets/2fb061b2-e905-47a6-a34f-e9105cf9392c)
 ![14](https://github.com/user-attachments/assets/891c8f2b-572e-4bd9-895e-13779dd04259)
