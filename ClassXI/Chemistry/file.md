@@ -75,6 +75,9 @@ Solution Strength
 
 
 
+
+
+This series introduces fundamental analytical techniques, focusing on purification and separation. We'll explore how to isolate pure substances, essential for accurate chemical analysis
 Analytical Toolkit
 ![21](https://github.com/user-attachments/assets/bc8941c7-0c10-43f3-a3c6-ee8617e3846c)
 ![22](https://github.com/user-attachments/assets/d12c6dd4-ad60-4859-9a22-220468b98c1c)
@@ -82,21 +85,24 @@ Analytical Toolkit
 ![24](https://github.com/user-attachments/assets/d3e5a8fb-d50c-4417-8202-661c611cebd0)
 ![25](https://github.com/user-attachments/assets/b42afc2c-c98a-4ab5-8624-997197366021)
 
-crystal clear purity
+Discover the power of crystallization, a four-step process to purify crude solids. Learn how creating saturated solutions, hot filtration, cooling, and final filtration work together to yield pure crystals
+Crystal Clear Purity!
 ![26](https://github.com/user-attachments/assets/bbc26590-06f8-4a2b-90c6-1f6fd889db45)
 ![27](https://github.com/user-attachments/assets/aab7b6bb-fb61-4ea1-b55e-9d02b93f73e7)
 ![28](https://github.com/user-attachments/assets/3d146146-4321-48cf-83e4-79de4200992f)
 ![29](https://github.com/user-attachments/assets/bd5d57ac-1c63-4bde-98d8-58f383ffda25)
 ![30](https://github.com/user-attachments/assets/375000ee-0490-41b7-b068-a084f238b42c)
 
-Boiling Point
+Distillation is a key method for separating liquids based on their boiling points. Simple distillation purifies liquids that boil without decomposing, by vaporizing and then condensing them. Discover the basic setup and process.
+Boiling Point Separation!
 ![31](https://github.com/user-attachments/assets/95a111ff-d5c8-4a26-b71d-3adda6e87cb4)
 ![32](https://github.com/user-attachments/assets/2a46a88a-1dd9-430a-b38d-3e848cb4d1f4)
 ![33](https://github.com/user-attachments/assets/98124e98-1a67-4e8e-bfcf-7465ff1fdd55)
 ![34](https://github.com/user-attachments/assets/aa2fd445-dbf3-4165-90a0-cfcb9dfbc2fd)
 ![35](https://github.com/user-attachments/assets/47634815-5a4a-4f19-9862-01139bcbc2dd)
 
-Colors reveal
+Chromatography, named after the Greek word for color, is a powerful technique to separate and purify mixture components. It relies on the differential distribution of solutes between a stationary and a mobile phase.
+Colors Reveal Separation!
 ![36](https://github.com/user-attachments/assets/9eb2804b-ed18-465e-aff0-1151d3d9e670)
 ![37](https://github.com/user-attachments/assets/28ffc483-c43e-440a-87e1-2c74b6b924b7)
 ![38](https://github.com/user-attachments/assets/231ffc02-bdd8-4269-b89e-0b25927d5eac)
