@@ -60,3 +60,59 @@ This post explores significant figures, a crucial concept for representing the p
 ![47](https://github.com/user-attachments/assets/c871ebc6-3061-487d-8a4d-a4dca1ca563e)
 
 
+# Mathematical Methods
+
+## Direction Matters: Beyond Simple Numbers
+This post introduces vectors, physical quantities that require both magnitude and direction for a complete description. We'll differentiate them from scalars, explore how they are represented, and define various types of vectors essential for understanding motion and forces in physics.
+![1](https://github.com/user-attachments/assets/9896fb2d-0e31-4bf5-89fd-df4503014a2d)
+![2](https://github.com/user-attachments/assets/81a749c0-3b54-435f-9296-93c1dc04fa0c)
+![3](https://github.com/user-attachments/assets/f98ec8ca-851c-4c0f-9ead-e22c0057b6b4)
+![4](https://github.com/user-attachments/assets/2ae5cd1b-788c-4c82-bba8-7db875eb079d)
+![5](https://github.com/user-attachments/assets/87d9728c-cbc2-44ab-afed-ec1d08e86446)
+![6](https://github.com/user-attachments/assets/d206d386-1557-4f5d-8b8c-7dd9b2d270a6)
+![7](https://github.com/user-attachments/assets/acd09a70-f784-4436-9c24-2689f87781c5)
+
+
+
+## Adding, Subtracting, and Resolving Vectors.
+This post dives into the fundamental mathematical operations involving vectors. We'll explore how to multiply vectors by scalars, combine them through addition and subtraction using various laws, and resolve them into their rectangular components, which is essential for analyzing motion and forces.
+![10](https://github.com/user-attachments/assets/7ff4fcd4-b4d9-4909-84b0-29abc6491f43)
+![11](https://github.com/user-attachments/assets/edda7c1a-eef7-4221-976d-ff34b3e56172)
+![12](https://github.com/user-attachments/assets/5353c3aa-ec63-496f-999a-0cb08e97fd22)
+![13](https://github.com/user-attachments/assets/068eceeb-034a-494a-adfd-8f39ecfeaeba)
+![14](https://github.com/user-attachments/assets/d8a0d9e3-bca9-475b-8a0f-5da95304c081)
+![15](https://github.com/user-attachments/assets/82ec76cf-b576-4929-8c20-c1db9279a596)
+![16](https://github.com/user-attachments/assets/722d029b-9aa4-4823-9002-0ce50d0d684e)
+![17](https://github.com/user-attachments/assets/62a58968-ce1a-4e57-bf53-47fe2ae9a994)
+![18](https://github.com/user-attachments/assets/62a6d450-b43d-484b-a2dc-bbd58ffec3d9)
+![19](https://github.com/user-attachments/assets/8d9aae28-3105-40f4-94c8-343f8cde809e)
+![20](https://github.com/user-attachments/assets/f75a65ad-1a25-4097-a8c4-8754cebbe717)
+
+
+## Scalar and Vector Products for New Insights.
+This post dives into the fascinating world of vector multiplication. We'll explore two distinct ways to multiply vectors—scalar (dot) product and vector (cross) product—and see how they yield different types of physical quantities, offering powerful tools for understanding complex physical phenomena.
+![21](https://github.com/user-attachments/assets/abeecfa0-3be2-4780-81c7-92a7f4b48be4)
+![22](https://github.com/user-attachments/assets/88bc15ad-0b0f-4187-ab7d-04911f706f4c)
+![23](https://github.com/user-attachments/assets/5c2b9896-396e-4a24-8101-3159317104dd)
+![24](https://github.com/user-attachments/assets/8f232bef-d3d0-42f8-8429-0714483e4743)
+![25](https://github.com/user-attachments/assets/b9c928d7-e451-440c-be25-75f145594a4c)
+![26](https://github.com/user-attachments/assets/81925cb9-f3fc-4c83-a5ad-bfeea76a0722)
+![27](https://github.com/user-attachments/assets/a3db994a-7439-40ec-8934-cef8bba07f78)
+![28](https://github.com/user-attachments/assets/98ff73fb-2f9f-454e-b374-fb737b73a200)
+![29](https://github.com/user-attachments/assets/aaa1175a-0a21-4e6c-8399-eb161c16a69a)
+![30](https://github.com/user-attachments/assets/48fafd65-f98b-4a27-89c6-296deb2d341e)
+
+
+## Exploring Differential and Integral Calculus.
+This post provides a foundational introduction to calculus, the mathematical framework for understanding continuous change. We'll delve into its two main branches—differential and integral calculus—essential tools developed by Newton and Leibniz that are indispensable for physics and numerous other scientific disciplines.
+![31](https://github.com/user-attachments/assets/667096f7-7ab3-48e1-b618-0861322333eb)
+![32](https://github.com/user-attachments/assets/31e9c256-9bd2-4a92-901f-2e4ea679a1a3)
+![33](https://github.com/user-attachments/assets/d0d418a6-2373-4c3e-9b4b-ccfe3ef02e4e)
+![34](https://github.com/user-attachments/assets/309f9971-30c5-4b44-bdfc-b13029a1c582)
+![35](https://github.com/user-attachments/assets/9888b249-a7a9-4158-917b-8bf6f98adfb4)
+![36](https://github.com/user-attachments/assets/f82cc654-4d70-4a0e-bc6f-4b45f9f3645e)
+![37](https://github.com/user-attachments/assets/e23c0669-5a8c-41db-9ae1-d485e287d276)
+![38](https://github.com/user-attachments/assets/ee8c24f6-84ee-4b24-ab0c-03900145d990)
+![39](https://github.com/user-attachments/assets/eb774ff1-e852-4e11-afc2-17adc040ff13)
+![40](https://github.com/user-attachments/assets/2cca37c7-f692-4982-b0d6-5a7439eb8ba3)
+
