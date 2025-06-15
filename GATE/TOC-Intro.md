@@ -61,7 +61,7 @@
 # FINITE AUTOMATA
 
 ### Finite Automata
-
+![1](https://github.com/user-attachments/assets/4fc8b697-ef03-4622-9fd2-7afd391871d0)
 ![2](https://github.com/user-attachments/assets/057fde6a-17fc-4007-bcf1-eeef2c2a4a6e)
 ![3](https://github.com/user-attachments/assets/f59a1b79-382a-4553-a5c0-96e497c69685)
 ![4](https://github.com/user-attachments/assets/42f4bc2b-61df-4cc6-9875-51cf46e5cb8e)
