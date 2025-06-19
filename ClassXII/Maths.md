@@ -160,5 +160,54 @@ Unlocking fundamental equivalences and algebraic properties of statements.
 ![34](https://github.com/user-attachments/assets/f7c0acd8-826b-4248-86c7-bd23721719d4)
 ![35](https://github.com/user-attachments/assets/d5b78dca-724c-4c01-9f8d-2befa2005152)
 
-### Logic Meets Circuits
-Bridging symbolic logic with the practical world of electrical switches.
+
+# Line and Plane 
+
+### Line Equations Demystified
+![1](https://github.com/user-attachments/assets/d9776e34-defb-42bc-946a-809e693fde6c)
+![2](https://github.com/user-attachments/assets/bbf68ce0-025c-410e-9e22-9cfe1f661488)
+![3](https://github.com/user-attachments/assets/945706fa-862e-42f6-8391-90a0521caa5b)
+![4](https://github.com/user-attachments/assets/46223ffe-24af-4b5a-a9f2-ad53837dfb7d)
+![5](https://github.com/user-attachments/assets/e885caca-8bf0-42c5-8cc1-4269d6a137e1)
+![6](https://github.com/user-attachments/assets/aba7c76a-e80e-4c5d-9d5c-222363d82da7)
+![7](https://github.com/user-attachments/assets/1daad962-5551-463d-a0d1-8d8299a4eb82)
+
+### Point-Line Distance
+![8](https://github.com/user-attachments/assets/96b52bb4-7765-4440-b25e-b2d473dfa587)
+![9](https://github.com/user-attachments/assets/39667a93-270b-4a84-8be8-68c288047f77)
+![10](https://github.com/user-attachments/assets/63db7679-1f35-4853-8860-ded1f4b145ac)
+![11](https://github.com/user-attachments/assets/54662eb4-b12d-4f61-9f22-79a56abe8207)
+
+### Skew Lines Explained
+![12](https://github.com/user-attachments/assets/f18d1210-7182-479d-9cc7-6332b56cf5b4)
+![13](https://github.com/user-attachments/assets/e56b2570-e527-4ee2-9061-5721e2db8668)
+![14](https://github.com/user-attachments/assets/6bbd058d-7bf7-4e47-bc6a-7dbf1a04ce12)
+![15](https://github.com/user-attachments/assets/f3e5c3a3-7e6c-463c-8d9a-38237f0fbc78)
+![16](https://github.com/user-attachments/assets/e58b9389-9e3f-49e6-8258-0524a6b06ee1)
+
+### Plane Equations Unveiled
+![17](https://github.com/user-attachments/assets/2a9c904f-953a-4db0-a88e-f1bec98552bd)
+![18](https://github.com/user-attachments/assets/d2335738-a14d-4887-ac16-f2451054caa2)
+![19](https://github.com/user-attachments/assets/1abf9451-a0a5-46d8-a243-1a6e818e1c66)
+![20](https://github.com/user-attachments/assets/67fe4c37-dedc-482d-bcc9-b855a1bcc20a)
+![21](https://github.com/user-attachments/assets/cc54ee27-4fe1-4fef-84e1-cf75a3b7ae46)
+![22](https://github.com/user-attachments/assets/fd0a0b99-a909-4824-87b8-46683e6b6b14)
+
+### Angles in 3d Geometry
+![23](https://github.com/user-attachments/assets/83c4e000-5acc-4cfd-b9da-f555917c7635)
+![24](https://github.com/user-attachments/assets/48622ec9-dbad-43a8-a4c0-2316ae1759e2)
+![25](https://github.com/user-attachments/assets/862ae56c-72cd-4354-b671-f660069c19cc)
+![26](https://github.com/user-attachments/assets/eff07854-4555-49c2-9dfa-32d9c41981fd)
+
+### Coplanar Lines
+![27](https://github.com/user-attachments/assets/7ff077fa-e647-4671-a76e-c70e089774df)
+![28](https://github.com/user-attachments/assets/fe2f339f-647c-4a7b-a68a-dc27388d3d60)
+![29](https://github.com/user-attachments/assets/36009205-0d62-4d57-be7a-0fdf6468ec8a)
+![30](https://github.com/user-attachments/assets/72bbaa72-d2b8-4561-9031-a25e6403bb42)
+![31](https://github.com/user-attachments/assets/9479a287-dae8-41a5-b85a-6ea7aa31dbb2)
+
+### Point to Plane Distance
+![32](https://github.com/user-attachments/assets/6e5f7ea7-a55c-47cc-aebf-32eee356c4aa)
+![33](https://github.com/user-attachments/assets/6c53192e-baa3-4172-8bcc-92d4c0649f74)
+![34](https://github.com/user-attachments/assets/362b0b16-deab-4b7f-8dff-baf03f850b37)
+![35](https://github.com/user-attachments/assets/feac33e9-d371-41f1-ba78-ce023797c596)
