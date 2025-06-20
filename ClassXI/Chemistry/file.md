@@ -1,4 +1,4 @@
-Some Basic Concepts of Chemistry
+# Some Basic Concepts of Chemistry
 
 Realm of Atoms and Moles
 ![1](https://github.com/user-attachments/assets/3bca3f15-44cb-4388-9ac3-7300e422464a)
@@ -108,3 +108,75 @@ Colors Reveal Separation!
 ![38](https://github.com/user-attachments/assets/231ffc02-bdd8-4269-b89e-0b25927d5eac)
 ![39](https://github.com/user-attachments/assets/508af843-4e3f-4557-8819-4baa4bbf43b0)
 ![40](https://github.com/user-attachments/assets/857b710f-826e-42e9-a4de-297ef35c387a)
+
+
+
+
+# Atomic Structure
+
+### Unvieling the Atom
+![1](https://github.com/user-attachments/assets/3b1c3276-e0f6-4a7e-8573-04caaabe135e)
+![2](https://github.com/user-attachments/assets/76e82d9d-0eae-4aa9-933b-2e1416114d53)
+![3](https://github.com/user-attachments/assets/051e4866-36db-43d9-84d9-665481f06039)
+![4](https://github.com/user-attachments/assets/e199146e-09d2-416e-a058-af44373d0588)
+![5](https://github.com/user-attachments/assets/d100af98-a327-4ee1-bbdc-4b9e3f8b819e)
+![6](https://github.com/user-attachments/assets/5d0970e4-53b0-453b-bbb1-0b909630ea6d)
+![7](https://github.com/user-attachments/assets/ae9b29c0-0526-4b2c-9c4b-391cd4b9541e)
+![8](https://github.com/user-attachments/assets/24b70bc2-feac-4fd4-991d-650bf4100f9d)
+
+
+### Atomic Revolution
+![9](https://github.com/user-attachments/assets/cc17e132-d92e-4cd5-9e9e-da37e7647009)
+![10](https://github.com/user-attachments/assets/749ac941-731e-45fc-87b8-3bd4ef2467fb)
+![11](https://github.com/user-attachments/assets/360f285c-abc5-45f2-8373-1d2442ad871b)
+![12](https://github.com/user-attachments/assets/ac8995f5-a96f-4224-953f-fb3b56c3074e)
+![13](https://github.com/user-attachments/assets/60a11197-1f30-4f8a-84f6-19ca868022c4)
+![14](https://github.com/user-attachments/assets/566286d9-fa3c-460a-a340-87e109b8f86c)
+![15](https://github.com/user-attachments/assets/8821c9a5-ea9f-4332-91d2-efed4458713c)
+![16](https://github.com/user-attachments/assets/fa9e9c45-eeb3-4056-a90c-4a3680648edb)
+![17](https://github.com/user-attachments/assets/dcd018a4-a49f-48df-a0a4-e6823c37e5c5)
+
+
+### Bohr's Hydrogen Atom
+![18](https://github.com/user-attachments/assets/4e7d38b3-9f6f-4241-ba80-a39537370e23)
+![19](https://github.com/user-attachments/assets/806ba4b0-85d9-4605-bc1f-cad5b6571cdd)
+![20](https://github.com/user-attachments/assets/cfdb78ca-f467-4234-ac21-658bd3faead0)
+![21](https://github.com/user-attachments/assets/6933c839-b108-4d5d-bfc1-036252275aac)
+![22](https://github.com/user-attachments/assets/4ebcad68-39d4-4ae9-a2ff-b05260d2e3dc)
+![23](https://github.com/user-attachments/assets/c49a1a0d-177a-41f3-b085-bbd5822cde32)
+![24](https://github.com/user-attachments/assets/cd0d78ac-73a2-448f-ac48-e8288898c59d)
+![25](https://github.com/user-attachments/assets/bc8e417d-2ebf-47ec-8b3f-39efdfd52723)
+
+
+### Hydrogen's Light Show
+![26](https://github.com/user-attachments/assets/34e1e118-9c3a-4367-8444-135b3897fc30)
+![27](https://github.com/user-attachments/assets/a2cf7d06-62e6-4d62-80aa-7838f2ad515b)
+![28](https://github.com/user-attachments/assets/321d782e-f63b-4a60-a3f9-19e32b4239d6)
+![29](https://github.com/user-attachments/assets/0d99b198-0af6-4cc5-9628-9f12aa44085c)
+![30](https://github.com/user-attachments/assets/bf7acd7c-080f-4ea4-9199-59d9b140c786)
+![31](https://github.com/user-attachments/assets/657ba5a6-962e-4b76-be8a-a810618489c7)
+![32](https://github.com/user-attachments/assets/8772b424-2dd4-45eb-9ca8-c37c1f059926)
+
+
+### Quantum Revolution
+![33](https://github.com/user-attachments/assets/59304d3e-242f-4e9b-b800-65897479f1a0)
+![34](https://github.com/user-attachments/assets/f9346faa-e7ea-4a3c-b2cc-238a731eef44)
+![35](https://github.com/user-attachments/assets/3afa8d8b-d3ac-4a8c-b9ba-4e5abab5be90)
+![36](https://github.com/user-attachments/assets/9fe01299-b5c5-4729-a816-55c4ab58b48e)
+![37](https://github.com/user-attachments/assets/92e10178-bf2e-49d4-9f74-d98306637401)
+![38](https://github.com/user-attachments/assets/4bbdc09c-eb9a-4c4b-b292-dd86e0d586cd)
+![39](https://github.com/user-attachments/assets/c10fe14a-30ed-4729-8ab3-fcc6d6beb480)
+![40](https://github.com/user-attachments/assets/f069a489-99cc-4861-b1d4-db6defd5edda)
+![41](https://github.com/user-attachments/assets/0331d10f-e4ca-4df2-b654-fb1d777bf649)
+
+
+### Orbital Energies
+![42](https://github.com/user-attachments/assets/bd3c349a-aef6-4a6b-91f4-814cea628a03)
+![43](https://github.com/user-attachments/assets/e1bc871c-79d4-4c1a-9e99-11c905fe8d22)
+![44](https://github.com/user-attachments/assets/2ef55eb8-2c63-4274-a0cb-52c6bc81e9d0)
+![45](https://github.com/user-attachments/assets/d8330b74-6f30-4c86-ba55-b7b523bc6ba2)
+![46](https://github.com/user-attachments/assets/71ca5b42-48df-4436-ad99-0e2818281dec)
+![47](https://github.com/user-attachments/assets/53c3fc7d-7a0c-412e-9ecd-518ab4b18965)
+![48](https://github.com/user-attachments/assets/b5037113-a8b3-4f6d-babd-298cc8c5ed4f)
+![49](https://github.com/user-attachments/assets/f2da4d2c-899b-456b-8b77-58ac5b34ffff)
+![50](https://github.com/user-attachments/assets/21d7ce38-6e18-4b0d-8791-7ca0a605f1aa)
