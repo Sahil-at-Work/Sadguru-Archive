@@ -7,3 +7,5 @@ Indrayani Institute Lecture
 IUCAA (Chandrashekhar Auditorium):
 <img width="480" height="479" alt="image" src="https://github.com/user-attachments/assets/2ea849ed-d7e3-498c-9b96-6f81e45342e4" />
 
+SCi DAy-25
+<img width="1108" height="746" alt="image" src="https://github.com/user-attachments/assets/4e804f0e-0cb4-47bc-98d6-607be54267c1" />
