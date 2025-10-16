@@ -19,3 +19,5 @@ Nehru Planetarium
 
 Me in iucaa- blackbook
 <img width="383" height="358" alt="image" src="https://github.com/user-attachments/assets/f1dcd7eb-8ec1-41c4-9ac4-3c7f7cbed1d5" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/3d798101-7056-45c0-9b79-d008cb092d44" />
