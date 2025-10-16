@@ -9,3 +9,6 @@ IUCAA (Chandrashekhar Auditorium):
 
 SCi DAy-25
 <img width="1108" height="746" alt="image" src="https://github.com/user-attachments/assets/4e804f0e-0cb4-47bc-98d6-607be54267c1" />
+
+Nehru Planetarium
+<img width="1327" height="1000" alt="image" src="https://github.com/user-attachments/assets/b163ecb8-e1c9-4fe9-8e73-74350e9e8cc5" />
