@@ -1,3 +1,11 @@
+ORION
+![1762517250752](https://github.com/user-attachments/assets/af07b2e7-a0f8-477f-a20c-5d0ed154dd61)
+
+AI FDP
+<img width="798" height="563" alt="Screenshot 2026-01-08 095053" src="https://github.com/user-attachments/assets/10a95ef8-d1c4-440f-8bbe-8b5ddd848e51" />
+
+
+
 Signal-to-stars lecture
 <img width="1127" height="749" alt="image" src="https://github.com/user-attachments/assets/b7ab1363-3c1c-4d11-9e9f-16bb25196938" />
 
