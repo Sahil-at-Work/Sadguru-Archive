@@ -75,3 +75,18 @@ https://github.com/user-attachments/assets/ac68986e-2db1-4df2-b838-045b887b8bb0"
 https://github.com/user-attachments/assets/d47c37af-1b69-4564-b660-ccd7de9f8e6e" />
 https://github.com/user-attachments/assets/9bdf7b64-4f72-41de-a538-d51d3dfc2fcd" />
 https://github.com/user-attachments/assets/b56d984e-6a8c-49c7-93e0-37d701bc5229" />
+
+
+tr day: 
+https://github.com/user-attachments/assets/d68e5fb6-6bfb-439a-8a09-5a07281c97aa" />
+clumsiness
+https://github.com/user-attachments/assets/47639c48-ebf5-4a8b-b1fb-2b6058ff0f08" />
+https://github.com/user-attachments/assets/eedf6aed-cb4a-4eee-b376-9861cc24d673" />
+https://github.com/user-attachments/assets/634ef451-4db5-42c5-9994-57c39fb92563" />
+on train 
+https://github.com/user-attachments/assets/1c210d31-6a5b-4d73-a0b1-dbb29392a5cd" />
+safarnaama
+https://github.com/user-attachments/assets/05b1b309-3359-44c6-bfc7-1eab83d17eae" />
+https://github.com/user-attachments/assets/6a640e54-2648-43dd-85b9-9454c5a67394" />
+aavishkar meetup
+https://github.com/user-attachments/assets/275c382e-a3b6-43cd-80e8-df56bc543851" />
